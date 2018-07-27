@@ -1,2 +1,2 @@
 # html-test-site
-A test ste for learning html, css &amp; js
+A test site for learning html, css &amp; js
